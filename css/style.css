@@ -1,0 +1,21 @@
+:root {
+	--Almost-White: hsl(0, 0%, 98%);
+	--Medium-Gray: hsl(0, 0%, 41%);
+	--Almost-Black: hsl(0, 0%, 8%);
+
+}
+
+@font-face {
+	font-family: bold;
+	src: url(../fonts/Epilogue/static/Epilogue-Bold.ttf);
+}
+
+@font-face {
+	font-family: light;
+	src: url(../fonts/Epilogue/static/Epilogue-Light.ttf);
+}
+
+@font-face {
+	font-family: medium;
+	src: url(../fonts/Epilogue/static/Epilogue-Medium.ttf);
+}
